@@ -1,11 +1,11 @@
 ## "Mr.Anderson!, Welcome back" <br>
 <p align="center">
- <img src="https://github.com/Mr-M-Moradi/Mr-M-Moradi/assets/167945263/5c0292d5-1a26-44f9-909f-8f54a05311bc" width="700"/>
+ <img src="https://github.com/Mr-M-Moradi/Mr-M-Moradi/assets/167945263/5c0292d5-1a26-44f9-909f-8f54a05311bc" width="650"/>
 <!-- ![Header](https://github.com/Mr-M-Moradi/Mr-M-Moradi/assets/167945263/5c0292d5-1a26-44f9-909f-8f54a05311bc) -->
 </p>
 <!--format link for img= [![imgAlt](img address)](imgLink) -->
 <hr>
-- Hi, I’m @Mr-M-Moradi
+- Hi, I’m `@Mr-M-Moradi`
 - Software engineer and programmer and developer
 - I'm interested most in Web development especially with PHP 
 
