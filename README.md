@@ -4,10 +4,9 @@
 </p>
 <hr>
 <ul>
-<li> Hi, I’m @Mr-M-Moradi </li>
-<li> Software engineer, programmer and developer </li>
+<li> I’m @Mr-M-Moradi, Software engineer, programmer and developer </li>
 <li> I'm interested most in Web development especially with PHP </li> 
 </ul>
-<img src="https://github.com/Mr-M-Moradi/Mr-M-Moradi/assets/167945263/3b06f488-0b57-4389-b7e5-b93edc5bba50" width="100"/>
+<img src="https://github.com/Mr-M-Moradi/Mr-M-Moradi/assets/167945263/3b06f488-0b57-4389-b7e5-b93edc5bba50" width="100"/> the extent of my experiences:
 
 
